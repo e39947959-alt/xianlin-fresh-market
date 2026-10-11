@@ -1,0 +1,22 @@
+{
+  "result": "passed",
+  "screenshots": 27,
+  "errors": [],
+  "checked": [
+    "guest cart",
+    "demo login",
+    "address add",
+    "checkout",
+    "success",
+    "cancellation",
+    "persistence",
+    "identity separation",
+    "sample read-only",
+    "out-of-range",
+    "sold-out",
+    "stock limit",
+    "cart merge",
+    "merge overstock correction",
+    "seven-day expiry reset"
+  ]
+}
